@@ -1,5 +1,7 @@
 # Frontend Mentor - Interactive rating component
 
+###  Link of Project: https://mrtzbk-interactive-rating-component.netlify.app/  [![Netlify Status](https://api.netlify.com/api/v1/badges/5854867c-d888-4043-a924-16ae272009f5/deploy-status)](https://app.netlify.com/sites/mrtzbk-interactive-rating-component/deploys)
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
