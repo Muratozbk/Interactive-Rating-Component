@@ -21,15 +21,6 @@
      --Very-Dark-Blue: hsl(216, 12%, 8%);
  }
 
- ul {
-     list-style: none;
-     display: flex;
-     flex-wrap: wrap;
-     align-items: center;
-     justify-content: space-between;
-     margin-bottom: 1.7rem;
- }
-
  body {
      font-family: 'Overpass', sans-serif;
      font-size: 15px;
@@ -72,8 +63,21 @@
      margin: 1.7rem 0 1rem;
  }
 
+ p {
+     line-height: 1.8;
+ }
+
  .main-container p {
      color: var(--Light-Grey);
+     margin-bottom: 1.7rem;
+ }
+
+ ul {
+     list-style: none;
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: space-between;
      margin-bottom: 1.7rem;
  }
 
@@ -99,11 +103,6 @@
  .main-container ul li button:focus {
      background-color: var(--Medium-Grey);
      color: var(--White);
-
- }
-
- p {
-     line-height: 1.8;
 
  }
 
@@ -162,17 +161,12 @@
      font-weight: 700;
  }
 
- #rate-again {
-     display: none;
- }
-
  .hidden {
      display: none;
  }
 
  .attribution {
      font-size: 12px;
-     text-align: center;
      margin: 2rem auto 0;
  }
 
